@@ -2,7 +2,7 @@
 
 A standalone, responsive public portfolio for MinnyMedia. Static HTML, CSS and JavaScript; no installation or build required.
 
-Projects appear in the approved order: Spirit Dragon, AUREUS, Fanorona, FretForge. Each section uses its own palette and real artwork/screenshots from the existing public landing page. Screenshot links open an accessible image dialog, and still work as direct image links without JavaScript.
+Projects appear in the approved order: Spirit Dragon, AUREUS, Fanorona: Clash of Crowns, FretForge. Each section uses its own palette and real artwork/screenshots from the existing public landing page. Screenshot links open an accessible image dialog, and still work as direct image links without JavaScript.
 
 ## Local preview
 
@@ -18,6 +18,6 @@ Publish the repository root using GitHub Pages, branch `main`. The `.nojekyll` f
 
 ## Updating content
 
-Edit `index.html` for copy, project statuses and links, `styles.css` for presentation, and `script.js` for the mobile menu and image dialog. Release stages reflect owner confirmation on 21 October 2026. Update those labels when products move to the next stage.
+Edit `index.html` for copy, project statuses and links, `styles.css` for presentation, and `script.js` for the mobile menu and image dialog. Release stages reflect owner confirmation on 3 November 2026: Spirit Dragon and AUREUS are on Google Play; Fanorona: Clash of Crowns is in closed testing; FretForge is in development. Update those labels when products move to the next stage.
 
 See `ASSET_SOURCES.md` for artwork provenance. All original product projects and their landing pages remain separate. No analytics, forms, private app source or credentials are included.
