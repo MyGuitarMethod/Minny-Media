@@ -9,4 +9,4 @@
 - [x] Check local links, responsive layout, and feature previews (Close button, backdrop click, Escape).
 - [x] Refresh Fanorona with Royal Navy styling, current icon/logo, four distinct feature masters and eight PC screenshots.
 - [x] Owner reviewed and approved the local portfolio and Fanorona landing previews (3 November 2026).
-- [ ] Publish the approved refresh and verify both live pages.
+- [x] Publish the approved refresh and verify both live pages (3 November 2026: successful Pages deployments; all 37 changed website files match approved local versions).
